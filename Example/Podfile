@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CMYRouter_Tests' do
+  pod 'CMYRouter', :path => '../'
+  
+  
+end
