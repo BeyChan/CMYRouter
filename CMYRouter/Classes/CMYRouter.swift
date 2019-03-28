@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CMYRouter: NSObject {
+open class CMYRouter: NSObject {
     public static let shared: CMYRouter = CMYRouter()
     private var cachedTarget: [String: NSObject] = [String : NSObject]()
 }

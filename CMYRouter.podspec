@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CMYRouter'
-  s.version          = '0.1.0'
+  s.version          = '0.1.3'
   s.summary          = '这是一个组件化通信的中间件'
   s.swift_version = '4.2'
   s.platform     = :ios, '10.0'
@@ -32,12 +32,11 @@ TODO: Add long description of the pod here.
 
 
   s.source_files = 'CMYRouter/Classes/**/*'
-  
+  s.frameworks    = 'Foundation','UIKit'
   # s.resource_bundles = {
   #   'CMYRouter' => ['CMYRouter/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
