@@ -22,7 +22,7 @@ pod 'CMYRouter'
 
 ## Author
 
-506660753@qq.com, melodychan1106@gmail.com
+MarvinChan, melodychan1106@gmail.com
 
 ## License
 

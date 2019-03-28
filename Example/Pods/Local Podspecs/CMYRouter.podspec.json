@@ -1,0 +1,22 @@
+{
+  "name": "CMYRouter",
+  "version": "0.1.0",
+  "summary": "A short description of CMYRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/506660753@qq.com/CMYRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "506660753@qq.com": "melodychan1106@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/506660753@qq.com/CMYRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMYRouter/Classes/**/*"
+}

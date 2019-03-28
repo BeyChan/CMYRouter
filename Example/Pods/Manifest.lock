@@ -1,0 +1,16 @@
+PODS:
+  - CMYRouter (0.1.0)
+
+DEPENDENCIES:
+  - CMYRouter (from `../`)
+
+EXTERNAL SOURCES:
+  CMYRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMYRouter: 58c7c08e0516391e23d68cf2c58f10105f85b0a6
+
+PODFILE CHECKSUM: 31fa7c1f63e45d27161e37a13a10d90de0c2ad70
+
+COCOAPODS: 1.6.1

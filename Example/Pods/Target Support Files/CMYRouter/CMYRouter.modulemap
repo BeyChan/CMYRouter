@@ -1,0 +1,6 @@
+framework module CMYRouter {
+  umbrella header "CMYRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
